@@ -17,4 +17,4 @@ This repo serve as a doc for past project and referencing purposes.
 
 
 
-#### Project showcase folder contain image of page.
+Project showcase folder contain image of webpage.
