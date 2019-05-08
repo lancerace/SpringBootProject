@@ -1,0 +1,25 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `getAllTags`()
+BEGIN
+
+
+select tag_id,tag_name
+from tags;
+END
+
+
+
+
+
+
+
+
+note
+
+====================
+
+article table new row
+
+
+column name: html_content
+datatype: blob
+default: NULL

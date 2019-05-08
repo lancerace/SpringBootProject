@@ -1,0 +1,14 @@
+{
+  "name": "recaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recaptcha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "g"
+  ],
+  "author": "google",
+  "license": "ISC"
+}
